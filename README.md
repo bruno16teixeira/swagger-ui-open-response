@@ -7,6 +7,7 @@ It works on matching URL's - https://\*.localhost/\*
 
 ## How to add chrome extensions
 
+First you must download the source code to a folder on your machine. Then just follow the steps:
 1. Visit chrome://extensions.
 2. Enable Developer mode by ticking the checkbox in the upper-right corner.
 3. Click on the "Load unpacked extension..." button.
